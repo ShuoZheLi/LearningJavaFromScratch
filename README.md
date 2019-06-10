@@ -1,0 +1,2 @@
+# LearningJavaFromScratch
+Java reviewing note
